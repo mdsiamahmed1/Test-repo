@@ -1,2 +1,10 @@
 clsi am from banglafesh 
 where are u fromgit 
+make html great again.
+git config -- global user.name"saim"
+git init
+git add file
+git restore file
+git commit --m"message2"
+git status
+git log --oneline
