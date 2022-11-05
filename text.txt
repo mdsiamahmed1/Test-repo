@@ -5,6 +5,7 @@ git config -- global user.name"saim"
 git init
 git add file
 git restore file
-git commit --m"message2"
+git commit -m"message2"
 git status
 git log --oneline
+i born in bangladesh ,currently living in belgium
